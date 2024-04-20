@@ -1,4 +1,4 @@
-import 'package:doctor_appointment_app/app/modules/home/components/main_card_profile.dart';
+import 'package:GitHub_user_search_app/app/modules/home/components/main_card_profile.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';

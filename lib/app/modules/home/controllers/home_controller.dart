@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:doctor_appointment_app/app/modules/home/providers/home_provider.dart';
+import 'package:GitHub_user_search_app/app/modules/home/providers/home_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:get/get.dart';

@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'package:doctor_appointment_app/app/modules/home/models/github_user_profile_model.dart';
+import 'package:GitHub_user_search_app/app/modules/home/models/github_user_profile_model.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 
