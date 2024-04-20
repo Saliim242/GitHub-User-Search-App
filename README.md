@@ -1,4 +1,4 @@
-# doctor_appointment_app
+# GitHub User Search
 
 A new Flutter project.
 
